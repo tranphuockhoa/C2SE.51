@@ -11,3 +11,9 @@ const variants = {
     destructive: 'bg-destructive text-white hover:bg-red-600',
     link: 'bg-transparent text-primary underline-offset-4 hover:underline p-0 h-auto',
 }
+const sizes = {
+    sm: 'h-8 px-3 text-sm rounded-md gap-1.5',
+    md: 'h-10 px-5 text-sm rounded-lg gap-2',
+    lg: 'h-12 px-6 text-base rounded-lg gap-2.5',
+    icon: 'h-10 w-10 rounded-lg',
+}
