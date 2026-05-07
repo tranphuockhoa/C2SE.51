@@ -51,3 +51,6 @@ const Button = forwardRef(function Button(/** @type {any} */ _props, ref) {
         )
     }
 })
+
+Button.displayName = 'Button'
+export default Button
