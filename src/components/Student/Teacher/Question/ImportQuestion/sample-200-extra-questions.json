@@ -1,0 +1,4139 @@
+{
+    "items": [
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「友達」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "ゆうだち" },
+                        { "label": "B", "text": "ともだち" },
+                        { "label": "C", "text": "ゆうたつ" },
+                        { "label": "D", "text": "ともたつ" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "友達（ともだち）は「仲の良い人」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「電車」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "でんしゃ" },
+                        { "label": "B", "text": "でんくるま" },
+                        { "label": "C", "text": "いなずまぐるま" },
+                        { "label": "D", "text": "てんしゃ" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "電車（でんしゃ）は電気で走る乗り物です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「病院」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "びょういん" },
+                        { "label": "B", "text": "びょういえ" },
+                        { "label": "C", "text": "やまいいん" },
+                        { "label": "D", "text": "へいいん" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "病院（びょういん）は病気を治す場所です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「銀行」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "きんこう" },
+                        { "label": "B", "text": "ぎんこう" },
+                        { "label": "C", "text": "ぎんぎょう" },
+                        { "label": "D", "text": "かねこう" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "銀行（ぎんこう）はお金を預ける場所です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「図書館」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "としょかん" },
+                        { "label": "B", "text": "ずしょかん" },
+                        { "label": "C", "text": "としょやかた" },
+                        { "label": "D", "text": "ずしょやかた" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "図書館（としょかん）は本を借りる場所です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「郵便局」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "ゆうべんきょく" },
+                        { "label": "B", "text": "ゆうびんきょく" },
+                        { "label": "C", "text": "ゆうびんつぼね" },
+                        { "label": "D", "text": "ゆうべんつぼね" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "郵便局（ゆうびんきょく）は手紙や荷物を送る場所です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「映画」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "えが" },
+                        { "label": "B", "text": "えいが" },
+                        { "label": "C", "text": "はえが" },
+                        { "label": "D", "text": "うつが" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "映画（えいが）は映画館で見る動画の作品です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「写真」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "しゃしん" },
+                        { "label": "B", "text": "うつしま" },
+                        { "label": "C", "text": "しゃま" },
+                        { "label": "D", "text": "うつしん" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "写真（しゃしん）はカメラで撮った画像です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「自転車」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "じてんしゃ" },
+                        { "label": "B", "text": "じどうしゃ" },
+                        { "label": "C", "text": "みずてんしゃ" },
+                        { "label": "D", "text": "じころがしゃ" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "自転車（じてんしゃ）はペダルを踏んで走る乗り物です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「旅行」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "たびぎょう" },
+                        { "label": "B", "text": "りょこう" },
+                        { "label": "C", "text": "たびこう" },
+                        { "label": "D", "text": "りょぎょう" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "旅行（りょこう）は遠くへ出かけることです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「おいしい」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "味が良い" },
+                        { "label": "B", "text": "量が多い" },
+                        { "label": "C", "text": "値段が高い" },
+                        { "label": "D", "text": "見た目が良い" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「おいしい」は食べ物や飲み物の味が良いという意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「つまらない」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "楽しい" },
+                        { "label": "B", "text": "面白くない" },
+                        { "label": "C", "text": "難しい" },
+                        { "label": "D", "text": "簡単だ" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「つまらない」は「面白くない、退屈だ」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「うるさい」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "静かだ" },
+                        { "label": "B", "text": "暗い" },
+                        { "label": "C", "text": "音が大きくて嫌だ" },
+                        { "label": "D", "text": "明るい" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「うるさい」は音が大きくて不快に感じるという意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「はやい」の漢字として正しいものは？（速度）",
+                    "options": [
+                        { "label": "A", "text": "早い" },
+                        { "label": "B", "text": "速い" },
+                        { "label": "C", "text": "急い" },
+                        { "label": "D", "text": "走い" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "速度が「はやい」場合は「速い」を使います。「早い」は時間が早い場合です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「まっすぐ」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "曲がっている" },
+                        { "label": "B", "text": "一直線に進む" },
+                        { "label": "C", "text": "戻る" },
+                        { "label": "D", "text": "止まる" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「まっすぐ」は曲がらずに一直線に進むことです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「たいせつ」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "大きい" },
+                        { "label": "B", "text": "重要である" },
+                        { "label": "C", "text": "少ない" },
+                        { "label": "D", "text": "新しい" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「たいせつ（大切）」は「重要だ、大事だ」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「にぎやか」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "静かで人が少ない" },
+                        { "label": "B", "text": "人が多くて活気がある" },
+                        { "label": "C", "text": "暗くて怖い" },
+                        { "label": "D", "text": "広くて明るい" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「にぎやか」は人が多くて活気がある様子を表します。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「ていねい」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "雑でいい加減" },
+                        { "label": "B", "text": "丁寧で礼儀正しい" },
+                        { "label": "C", "text": "急いでいる" },
+                        { "label": "D", "text": "退屈である" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「ていねい（丁寧）」は礼儀正しく、注意深いという意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「きっと」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "多分" },
+                        { "label": "B", "text": "必ず" },
+                        { "label": "C", "text": "時々" },
+                        { "label": "D", "text": "全然" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「きっと」は「必ず、間違いなく」という強い確信を表す副詞です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「そろそろ」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "突然" },
+                        { "label": "B", "text": "もうすぐ" },
+                        { "label": "C", "text": "ずっと前に" },
+                        { "label": "D", "text": "いつも" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「そろそろ」は「もうすぐ、そのうち」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「入口」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "いりぐち" },
+                        { "label": "B", "text": "にゅうこう" },
+                        { "label": "C", "text": "いりくち" },
+                        { "label": "D", "text": "はいりぐち" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "入口（いりぐち）は建物に入る場所です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「出口」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "しゅっこう" },
+                        { "label": "B", "text": "でぐち" },
+                        { "label": "C", "text": "だしぐち" },
+                        { "label": "D", "text": "でこう" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "出口（でぐち）は建物から出る場所です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「会社」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "かいしゃ" },
+                        { "label": "B", "text": "あうやしろ" },
+                        { "label": "C", "text": "かいやしろ" },
+                        { "label": "D", "text": "えしゃ" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "会社（かいしゃ）は仕事をする場所・組織です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「買い物」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "かいもの" },
+                        { "label": "B", "text": "ばいぶつ" },
+                        { "label": "C", "text": "かいぶつ" },
+                        { "label": "D", "text": "ばいもの" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "買い物（かいもの）はお店で物を買うことです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「外国」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "がいこく" },
+                        { "label": "B", "text": "そとくに" },
+                        { "label": "C", "text": "がいくに" },
+                        { "label": "D", "text": "そとこく" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "外国（がいこく）は自分の国以外の国です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "田中さんは毎朝ジョギング（　　）します。",
+                    "options": [
+                        { "label": "A", "text": "を" },
+                        { "label": "B", "text": "が" },
+                        { "label": "C", "text": "に" },
+                        { "label": "D", "text": "で" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「ジョギングをする」のように、「〜をする」で動作を表します。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "私は来年日本（　　）行きたいです。",
+                    "options": [
+                        { "label": "A", "text": "を" },
+                        { "label": "B", "text": "に" },
+                        { "label": "C", "text": "で" },
+                        { "label": "D", "text": "が" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "移動先を表す助詞は「に」です。「日本に行く」が正しいです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "この本は図書館（　　）借りました。",
+                    "options": [
+                        { "label": "A", "text": "に" },
+                        { "label": "B", "text": "を" },
+                        { "label": "C", "text": "で" },
+                        { "label": "D", "text": "から" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "場所で動作をするとき「で」を使います。「図書館で借りる」が正しいです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "昨日、雨が（　　）、試合は中止になりました。",
+                    "options": [
+                        { "label": "A", "text": "降って" },
+                        { "label": "B", "text": "降るから" },
+                        { "label": "C", "text": "降ったので" },
+                        { "label": "D", "text": "降りので" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「〜ので」は理由を表す表現です。「降ったので」は過去形＋のでの形です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "　テレビを（　　）ながら、ご飯を食べます。",
+                    "options": [
+                        { "label": "A", "text": "見" },
+                        { "label": "B", "text": "見る" },
+                        { "label": "C", "text": "見て" },
+                        { "label": "D", "text": "見た" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「〜ながら」は動詞のます形の語幹に接続します。「見ながら」が正しいです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "明日は天気が良ければ、公園（　　）散歩します。",
+                    "options": [
+                        { "label": "A", "text": "に" },
+                        { "label": "B", "text": "で" },
+                        { "label": "C", "text": "へ" },
+                        { "label": "D", "text": "を" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "「散歩する」は移動動詞で、通過する場所を「を」で表します。「公園を散歩する」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "この料理は母（　　）作ってもらいました。",
+                    "options": [
+                        { "label": "A", "text": "が" },
+                        { "label": "B", "text": "を" },
+                        { "label": "C", "text": "に" },
+                        { "label": "D", "text": "で" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「〜てもらう」の動作主は「に」を使います。「母に作ってもらう」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "日本語は（　　）ほど上手になります。",
+                    "options": [
+                        { "label": "A", "text": "練習する" },
+                        { "label": "B", "text": "練習した" },
+                        { "label": "C", "text": "練習すれば練習する" },
+                        { "label": "D", "text": "練習して" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「〜ば〜ほど」は「すればするほど」の形で、繰り返すことで程度が増す意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "薬を飲んだ（　　）、熱が下がりました。",
+                    "options": [
+                        { "label": "A", "text": "あとで" },
+                        { "label": "B", "text": "から" },
+                        { "label": "C", "text": "ら" },
+                        { "label": "D", "text": "まえに" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「〜たら」は条件や時間の先後を表します。「飲んだら」は「飲んだ後」の意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "彼女は歌が上手（　　）、ダンスも得意です。",
+                    "options": [
+                        { "label": "A", "text": "だし" },
+                        { "label": "B", "text": "なので" },
+                        { "label": "C", "text": "だから" },
+                        { "label": "D", "text": "でも" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「〜し」は複数の理由や事実を列挙する表現です。「上手だし、得意です」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "この漢字の読み方を教えて（　　）ませんか。",
+                    "options": [
+                        { "label": "A", "text": "あげ" },
+                        { "label": "B", "text": "もらい" },
+                        { "label": "C", "text": "くれ" },
+                        { "label": "D", "text": "くださり" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「〜てもらえませんか」は丁寧に頼む表現です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "電車に乗る前に、切符を買わ（　　）。",
+                    "options": [
+                        { "label": "A", "text": "なければなりません" },
+                        { "label": "B", "text": "ないでください" },
+                        { "label": "C", "text": "ないほうがいい" },
+                        { "label": "D", "text": "なくてもいい" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「〜なければなりません」は義務を表します。「買わなければなりません」＝買う必要がある。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "山田さんは会議に（　　）そうです。",
+                    "options": [
+                        { "label": "A", "text": "出る" },
+                        { "label": "B", "text": "出" },
+                        { "label": "C", "text": "出た" },
+                        { "label": "D", "text": "出ない" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "伝聞の「〜そうです」は動詞の普通形に接続します。「出るそうです」が正しいです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "ここで写真を（　　）もいいですか。",
+                    "options": [
+                        { "label": "A", "text": "撮る" },
+                        { "label": "B", "text": "撮り" },
+                        { "label": "C", "text": "撮って" },
+                        { "label": "D", "text": "撮った" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「〜てもいいですか」は許可を求める表現です。「撮ってもいいですか」が正しい形です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "あの映画は（　　）と思います。",
+                    "options": [
+                        { "label": "A", "text": "面白い" },
+                        { "label": "B", "text": "面白" },
+                        { "label": "C", "text": "面白く" },
+                        { "label": "D", "text": "面白いだ" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「〜と思う」の前は普通形を使います。い形容詞はそのまま「面白いと思う」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "先生の話（　　）よく聞いてください。",
+                    "options": [
+                        { "label": "A", "text": "が" },
+                        { "label": "B", "text": "を" },
+                        { "label": "C", "text": "に" },
+                        { "label": "D", "text": "で" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「聞く」の対象は「を」で表します。「話を聞く」が正しいです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "田中さんはまだ来て（　　）。",
+                    "options": [
+                        { "label": "A", "text": "います" },
+                        { "label": "B", "text": "あります" },
+                        { "label": "C", "text": "いません" },
+                        { "label": "D", "text": "ありません" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「まだ〜ていません」は「まだその状態になっていない」ことを表します。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿＿＿」に入る正しい文を選んでください。A「週末は何をしますか？」B「＿＿＿＿」",
+                    "options": [
+                        { "label": "A", "text": "買い物に行くつもりです。" },
+                        { "label": "B", "text": "買い物に行きました。" },
+                        { "label": "C", "text": "買い物に行っています。" },
+                        { "label": "D", "text": "買い物に行きませんでした。" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "未来の予定を聞かれたので「〜つもりです」で答えます。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿＿＿」に入る正しい文を選んでください。A「日本語はどうですか？」B「＿＿＿＿」",
+                    "options": [
+                        { "label": "A", "text": "少し難しいですが、面白いです。" },
+                        { "label": "B", "text": "日本に行きました。" },
+                        { "label": "C", "text": "はい、日本語です。" },
+                        { "label": "D", "text": "三年間です。" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「どうですか」は感想を聞く質問です。「難しいですが面白い」が適切な答えです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿＿＿」に入る文を選んでください。A「今日はいい天気ですね。」B「＿＿＿＿」",
+                    "options": [
+                        { "label": "A", "text": "ええ、本当にいい天気ですね。" },
+                        { "label": "B", "text": "いいえ、天気です。" },
+                        { "label": "C", "text": "天気が好きです。" },
+                        { "label": "D", "text": "明日の天気は？" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "同意をするときは「ええ」で始めるのが自然です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿＿＿」に入る正しい文を選んでください。A「すみません、トイレはどこですか？」B「＿＿＿＿」",
+                    "options": [
+                        { "label": "A", "text": "あそこにあります。" },
+                        { "label": "B", "text": "トイレが好きです。" },
+                        { "label": "C", "text": "はい、トイレです。" },
+                        { "label": "D", "text": "トイレに行きました。" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "場所を聞かれたので「あそこにあります」と場所を教えます。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿＿＿」に入る正しい文を選んでください。A「何時に起きますか？」B「＿＿＿＿」",
+                    "options": [
+                        { "label": "A", "text": "毎朝六時に起きます。" },
+                        { "label": "B", "text": "朝ご飯を食べます。" },
+                        { "label": "C", "text": "はい、起きます。" },
+                        { "label": "D", "text": "昨日起きました。" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「何時に」と時間を聞かれたので、具体的な時間を含む回答が適切です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "駅前の案内",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "駅前に新しいレストランができました。このレストランは月曜日から土曜日まで、午前11時から午後10時まで営業しています。日曜日は休みです。ランチメニューは800円からで、ディナーは1500円からです。学生は10パーセント割引があります。"
+            },
+            "questions": [
+                {
+                    "questionText": "このレストランは何曜日が休みですか？",
+                    "options": [
+                        { "label": "A", "text": "月曜日" },
+                        { "label": "B", "text": "土曜日" },
+                        { "label": "C", "text": "日曜日" },
+                        { "label": "D", "text": "水曜日" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「日曜日は休みです」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "ランチの一番安いメニューはいくらですか？",
+                    "options": [
+                        { "label": "A", "text": "800円" },
+                        { "label": "B", "text": "1500円" },
+                        { "label": "C", "text": "1000円" },
+                        { "label": "D", "text": "500円" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「ランチメニューは800円から」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "学生は割引がありますか？",
+                    "options": [
+                        { "label": "A", "text": "はい、20パーセント" },
+                        { "label": "B", "text": "はい、10パーセント" },
+                        { "label": "C", "text": "いいえ、ありません" },
+                        { "label": "D", "text": "はい、5パーセント" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「学生は10パーセント割引があります」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "図書館のお知らせ",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "市立図書館からのお知らせです。来月から開館時間が変わります。今まで午前9時から午後5時まででしたが、来月から午前9時から午後7時までになります。また、毎月第一水曜日は休館日になります。本の貸し出しは一人5冊まで、2週間借りることができます。"
+            },
+            "questions": [
+                {
+                    "questionText": "来月から図書館は何時まで開いていますか？",
+                    "options": [
+                        { "label": "A", "text": "午後5時" },
+                        { "label": "B", "text": "午後6時" },
+                        { "label": "C", "text": "午後7時" },
+                        { "label": "D", "text": "午後8時" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「来月から午前9時から午後7時まで」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "一度に何冊借りることができますか？",
+                    "options": [
+                        { "label": "A", "text": "3冊" },
+                        { "label": "B", "text": "5冊" },
+                        { "label": "C", "text": "7冊" },
+                        { "label": "D", "text": "10冊" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「一人5冊まで」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "休館日はいつですか？",
+                    "options": [
+                        { "label": "A", "text": "毎週水曜日" },
+                        { "label": "B", "text": "毎月第一月曜日" },
+                        { "label": "C", "text": "毎月第一水曜日" },
+                        { "label": "D", "text": "毎週日曜日" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「毎月第一水曜日は休館日」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "田中さんの一日",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "田中さんは毎朝6時に起きます。朝ご飯を食べてから、7時半に家を出ます。会社までは電車で40分かかります。会社は9時から5時まで働きます。帰りにスーパーに寄って買い物をして、夜7時ごろ家に帰ります。夕ご飯の後、テレビを見たり本を読んだりして、11時ごろ寝ます。"
+            },
+            "questions": [
+                {
+                    "questionText": "田中さんは何時に家を出ますか？",
+                    "options": [
+                        { "label": "A", "text": "6時" },
+                        { "label": "B", "text": "7時" },
+                        { "label": "C", "text": "7時半" },
+                        { "label": "D", "text": "8時" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「7時半に家を出ます」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "会社までどのくらいかかりますか？",
+                    "options": [
+                        { "label": "A", "text": "30分" },
+                        { "label": "B", "text": "40分" },
+                        { "label": "C", "text": "1時間" },
+                        { "label": "D", "text": "20分" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「電車で40分かかります」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "田中さんは夜何をしますか？",
+                    "options": [
+                        { "label": "A", "text": "勉強する" },
+                        { "label": "B", "text": "テレビを見たり本を読んだりする" },
+                        { "label": "C", "text": "運動する" },
+                        { "label": "D", "text": "友達と電話する" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「テレビを見たり本を読んだりして」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "天気予報",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "明日の天気予報です。朝は晴れますが、午後から雲が多くなります。夕方には雨が降るでしょう。気温は朝が12度、昼が20度になります。風は南から吹いて、少し暖かくなります。傘を持って出かけましょう。"
+            },
+            "questions": [
+                {
+                    "questionText": "午後の天気はどうなりますか？",
+                    "options": [
+                        { "label": "A", "text": "晴れ" },
+                        { "label": "B", "text": "曇り" },
+                        { "label": "C", "text": "雨" },
+                        { "label": "D", "text": "雪" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「午後から雲が多くなります」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "昼の気温は何度ですか？",
+                    "options": [
+                        { "label": "A", "text": "12度" },
+                        { "label": "B", "text": "15度" },
+                        { "label": "C", "text": "18度" },
+                        { "label": "D", "text": "20度" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "「昼が20度」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "メールの内容",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "山田さんへ\n\n来週の土曜日にパーティーをします。場所は私のアパートです。午後3時から始まります。料理は私が作りますが、飲み物を持ってきてくれませんか。田中さんと鈴木さんも来ます。楽しみにしています。\n\n佐藤より"
+            },
+            "questions": [
+                {
+                    "questionText": "パーティーはいつですか？",
+                    "options": [
+                        { "label": "A", "text": "今週の金曜日" },
+                        { "label": "B", "text": "来週の土曜日" },
+                        { "label": "C", "text": "来週の日曜日" },
+                        { "label": "D", "text": "今週の土曜日" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「来週の土曜日にパーティーをします」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "山田さんは何を持っていきますか？",
+                    "options": [
+                        { "label": "A", "text": "料理" },
+                        { "label": "B", "text": "飲み物" },
+                        { "label": "C", "text": "お菓子" },
+                        { "label": "D", "text": "花" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「飲み物を持ってきてくれませんか」と頼んでいます。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "パーティーに何人来ますか（佐藤さんを含めて）？",
+                    "options": [
+                        { "label": "A", "text": "2人" },
+                        { "label": "B", "text": "3人" },
+                        { "label": "C", "text": "4人" },
+                        { "label": "D", "text": "5人" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "佐藤さん、山田さん、田中さん、鈴木さんの4人です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "medium_passages",
+            "title": "日本の四季",
+            "difficulty": "medium",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "日本には春、夏、秋、冬の四つの季節があります。春は3月から5月で、桜がとても美しいです。多くの人が公園でお花見をします。夏は6月から8月で、とても暑いです。海やプールで泳ぐ人が多いです。秋は9月から11月で、紅葉が美しい季節です。冬は12月から2月で、寒いですが、北の地方では雪が降って、スキーを楽しむことができます。日本は季節によって食べ物も変わります。"
+            },
+            "questions": [
+                {
+                    "questionText": "日本の春はいつですか？",
+                    "options": [
+                        { "label": "A", "text": "1月から3月" },
+                        { "label": "B", "text": "3月から5月" },
+                        { "label": "C", "text": "4月から6月" },
+                        { "label": "D", "text": "6月から8月" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「春は3月から5月」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "秋はどんな季節ですか？",
+                    "options": [
+                        { "label": "A", "text": "桜が美しい" },
+                        { "label": "B", "text": "海で泳ぐ" },
+                        { "label": "C", "text": "紅葉が美しい" },
+                        { "label": "D", "text": "雪が降る" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「紅葉が美しい季節です」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "冬に何ができますか？",
+                    "options": [
+                        { "label": "A", "text": "お花見" },
+                        { "label": "B", "text": "水泳" },
+                        { "label": "C", "text": "スキー" },
+                        { "label": "D", "text": "紅葉狩り" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「スキーを楽しむことができます」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "medium_passages",
+            "title": "アルバイトの募集",
+            "difficulty": "medium",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "コンビニ「さくら」でアルバイトを募集しています。\n\n勤務時間：午前6時〜午前10時、または午後5時〜午後10時\n時給：950円（土日祝は1100円）\n条件：18歳以上、週3日以上働ける方\n仕事内容：レジ、商品の陳列、清掃\n応募方法：店長の山本にお電話ください。電話番号は03-1234-5678です。\n\n明るくて元気な方を待っています。"
+            },
+            "questions": [
+                {
+                    "questionText": "平日の時給はいくらですか？",
+                    "options": [
+                        { "label": "A", "text": "900円" },
+                        { "label": "B", "text": "950円" },
+                        { "label": "C", "text": "1000円" },
+                        { "label": "D", "text": "1100円" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「時給：950円」と書いてあります。1100円は土日祝の時給です。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "応募するにはどうしますか？",
+                    "options": [
+                        { "label": "A", "text": "メールを送る" },
+                        { "label": "B", "text": "店に行く" },
+                        { "label": "C", "text": "電話する" },
+                        { "label": "D", "text": "手紙を書く" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「店長の山本にお電話ください」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "週に何日以上働く必要がありますか？",
+                    "options": [
+                        { "label": "A", "text": "2日" },
+                        { "label": "B", "text": "3日" },
+                        { "label": "C", "text": "4日" },
+                        { "label": "D", "text": "5日" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「週3日以上働ける方」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "買い物の会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "女：すみません、このTシャツはいくらですか？\n男：2000円です。\n女：もう少し安いのはありますか？\n男：こちらは1500円です。色は白と青があります。\n女：じゃ、青をください。"
+            },
+            "questions": [
+                {
+                    "questionText": "女の人は何を買いましたか？",
+                    "options": [
+                        { "label": "A", "text": "2000円の白いTシャツ" },
+                        { "label": "B", "text": "1500円の青いTシャツ" },
+                        { "label": "C", "text": "2000円の青いTシャツ" },
+                        { "label": "D", "text": "1500円の白いTシャツ" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "安い方（1500円）の青を選びました。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "道を聞く",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "女：すみません、駅はどこですか？\n男：この道をまっすぐ行って、二つ目の信号を右に曲がってください。\n女：右ですね。どのくらいかかりますか？\n男：歩いて10分くらいです。"
+            },
+            "questions": [
+                {
+                    "questionText": "駅はどう行きますか？",
+                    "options": [
+                        { "label": "A", "text": "まっすぐ行って一つ目の信号を左に曲がる" },
+                        { "label": "B", "text": "まっすぐ行って二つ目の信号を右に曲がる" },
+                        { "label": "C", "text": "まっすぐ行って二つ目の信号を左に曲がる" },
+                        { "label": "D", "text": "まっすぐ行って一つ目の信号を右に曲がる" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「二つ目の信号を右に曲がってください」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "レストランでの注文",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "店員：いらっしゃいませ。ご注文は？\n男：カレーライスをお願いします。\n店員：お飲み物は？\n男：アイスコーヒーをください。\n店員：かしこまりました。少々お待ちください。"
+            },
+            "questions": [
+                {
+                    "questionText": "男の人は何を注文しましたか？",
+                    "options": [
+                        { "label": "A", "text": "ラーメンとオレンジジュース" },
+                        { "label": "B", "text": "カレーライスとホットコーヒー" },
+                        { "label": "C", "text": "カレーライスとアイスコーヒー" },
+                        { "label": "D", "text": "うどんとアイスコーヒー" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "カレーライスとアイスコーヒーを注文しました。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "約束の電話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "女：もしもし、田中さん？明日映画を見に行きませんか？\n男：いいですね。何時にしますか？\n女：2時はどうですか？\n男：ちょっと遅いですね。1時はどうですか？\n女：わかりました。じゃ、駅の前で会いましょう。"
+            },
+            "questions": [
+                {
+                    "questionText": "二人は何時に会いますか？",
+                    "options": [
+                        { "label": "A", "text": "12時" },
+                        { "label": "B", "text": "1時" },
+                        { "label": "C", "text": "2時" },
+                        { "label": "D", "text": "3時" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "男の人が「1時はどうですか」と提案し、女の人が「わかりました」と了承しました。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "天気に関する会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "男：今日はいい天気ですね。\n女：ええ、でも天気予報では午後から雨だそうですよ。\n男：本当ですか？傘を持ってきませんでした。\n女：私は2本あるので、1本貸しましょうか？\n男：ありがとうございます。助かります。"
+            },
+            "questions": [
+                {
+                    "questionText": "男の人はどうして困っていますか？",
+                    "options": [
+                        { "label": "A", "text": "電車に乗り遅れた" },
+                        { "label": "B", "text": "傘を持っていない" },
+                        { "label": "C", "text": "お金がない" },
+                        { "label": "D", "text": "道がわからない" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「傘を持ってきませんでした」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "旅行の計画",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "女：夏休みにどこへ行きたいですか？\n男：京都に行きたいです。お寺を見たいです。\n女：いいですね。京都はお寺がたくさんありますよ。いつ行きますか？\n男：8月の第1週はどうですか？3泊4日で。\n女：いいですよ。ホテルは私が予約します。\n男：ありがとうございます。電車の切符は僕が買います。"
+            },
+            "questions": [
+                {
+                    "questionText": "二人はどこへ行きますか？",
+                    "options": [
+                        { "label": "A", "text": "東京" },
+                        { "label": "B", "text": "大阪" },
+                        { "label": "C", "text": "京都" },
+                        { "label": "D", "text": "北海道" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「京都に行きたいです」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "旅行は何泊ですか？",
+                    "options": [
+                        { "label": "A", "text": "1泊2日" },
+                        { "label": "B", "text": "2泊3日" },
+                        { "label": "C", "text": "3泊4日" },
+                        { "label": "D", "text": "4泊5日" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「3泊4日で」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "ホテルは誰が予約しますか？",
+                    "options": [
+                        { "label": "A", "text": "男の人" },
+                        { "label": "B", "text": "女の人" },
+                        { "label": "C", "text": "旅行会社" },
+                        { "label": "D", "text": "友達" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「ホテルは私が予約します」と女の人が言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "病院での会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "医者：どうしましたか？\n男：昨日の夜からお腹が痛いです。熱もあります。\n医者：熱は何度ですか？\n男：38度です。\n医者：食事はどうですか？\n男：朝ご飯は食べませんでした。\n医者：わかりました。薬を出しますから、1日3回、食後に飲んでください。"
+            },
+            "questions": [
+                {
+                    "questionText": "男の人はどこが痛いですか？",
+                    "options": [
+                        { "label": "A", "text": "頭" },
+                        { "label": "B", "text": "お腹" },
+                        { "label": "C", "text": "のど" },
+                        { "label": "D", "text": "足" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「お腹が痛いです」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "薬は1日に何回飲みますか？",
+                    "options": [
+                        { "label": "A", "text": "1回" },
+                        { "label": "B", "text": "2回" },
+                        { "label": "C", "text": "3回" },
+                        { "label": "D", "text": "4回" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「1日3回飲んでください」と医者が言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "男の人の体温は何度ですか？",
+                    "options": [
+                        { "label": "A", "text": "37度" },
+                        { "label": "B", "text": "37.5度" },
+                        { "label": "C", "text": "38度" },
+                        { "label": "D", "text": "39度" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「38度です」と答えています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "引っ越しの相談",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "女：来月引っ越しをするんですが、手伝ってくれませんか？\n男：いいですよ。いつですか？\n女：3月15日の土曜日です。朝9時から始めたいです。\n男：わかりました。他に誰か来ますか？\n女：山田さんと佐藤さんも来てくれると言っていました。\n男：じゃ、4人いれば大丈夫ですね。トラックはどうしますか？\n女：レンタカーで借ります。"
+            },
+            "questions": [
+                {
+                    "questionText": "引っ越しはいつですか？",
+                    "options": [
+                        { "label": "A", "text": "3月13日" },
+                        { "label": "B", "text": "3月14日" },
+                        { "label": "C", "text": "3月15日" },
+                        { "label": "D", "text": "3月16日" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「3月15日の土曜日です」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "全部で何人手伝いますか？",
+                    "options": [
+                        { "label": "A", "text": "2人" },
+                        { "label": "B", "text": "3人" },
+                        { "label": "C", "text": "4人" },
+                        { "label": "D", "text": "5人" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "女の人、男の人、山田さん、佐藤さんの4人です。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "トラックはどうしますか？",
+                    "options": [
+                        { "label": "A", "text": "友達に借りる" },
+                        { "label": "B", "text": "レンタカーで借りる" },
+                        { "label": "C", "text": "引っ越し会社に頼む" },
+                        { "label": "D", "text": "タクシーを使う" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「レンタカーで借ります」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "クラスメートとの会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "男：昨日のテストはどうだった？\n女：うーん、漢字が難しかったなあ。50問中30問しかできなかった。\n男：そうか。僕は40問できたけど、文法が全然だめだった。\n女：来週もテストがあるから、一緒に勉強しない？\n男：いいね。じゃ、木曜日の放課後はどう？\n女：うん、図書館で勉強しよう。"
+            },
+            "questions": [
+                {
+                    "questionText": "女の人は漢字のテストで何問できましたか？",
+                    "options": [
+                        { "label": "A", "text": "20問" },
+                        { "label": "B", "text": "30問" },
+                        { "label": "C", "text": "40問" },
+                        { "label": "D", "text": "50問" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「50問中30問しかできなかった」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "二人はいつ勉強しますか？",
+                    "options": [
+                        { "label": "A", "text": "水曜日" },
+                        { "label": "B", "text": "木曜日" },
+                        { "label": "C", "text": "金曜日" },
+                        { "label": "D", "text": "土曜日" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「木曜日の放課後はどう？」と提案して了承しています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "どこで勉強しますか？",
+                    "options": [
+                        { "label": "A", "text": "教室" },
+                        { "label": "B", "text": "カフェ" },
+                        { "label": "C", "text": "図書館" },
+                        { "label": "D", "text": "家" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「図書館で勉強しよう」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "電話での予約",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "店員：はい、レストラン花です。\n女：予約をしたいのですが。\n店員：はい、いつのご予約ですか？\n女：来週の金曜日、夜7時からで、4人です。\n店員：申し訳ございません、7時は満席です。7時半は空いておりますが。\n女：7時半でお願いします。\n店員：お名前をお願いします。\n女：鈴木です。"
+            },
+            "questions": [
+                {
+                    "questionText": "予約は何時になりましたか？",
+                    "options": [
+                        { "label": "A", "text": "6時半" },
+                        { "label": "B", "text": "7時" },
+                        { "label": "C", "text": "7時半" },
+                        { "label": "D", "text": "8時" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "7時は満席なので、「7時半でお願いします」と変更しました。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "何人で予約しましたか？",
+                    "options": [
+                        { "label": "A", "text": "2人" },
+                        { "label": "B", "text": "3人" },
+                        { "label": "C", "text": "4人" },
+                        { "label": "D", "text": "5人" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「4人です」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "ホテルのチェックイン",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "フロント：いらっしゃいませ。ご予約のお名前をお願いします。\n男：山田太郎です。\nフロント：山田様ですね。2泊3日のご予約を確認しました。お部屋は5階の502号室です。\n男：朝食は付いていますか？\nフロント：はい、朝食は7時から9時までレストランでお召し上がりいただけます。\n男：Wi-Fiはありますか？\nフロント：はい、パスワードはお部屋のカードに書いてあります。"
+            },
+            "questions": [
+                {
+                    "questionText": "部屋は何階ですか？",
+                    "options": [
+                        { "label": "A", "text": "3階" },
+                        { "label": "B", "text": "4階" },
+                        { "label": "C", "text": "5階" },
+                        { "label": "D", "text": "6階" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「5階の502号室です」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "朝食は何時からですか？",
+                    "options": [
+                        { "label": "A", "text": "6時" },
+                        { "label": "B", "text": "7時" },
+                        { "label": "C", "text": "8時" },
+                        { "label": "D", "text": "9時" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「7時から9時まで」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "Wi-Fiのパスワードはどこにありますか？",
+                    "options": [
+                        { "label": "A", "text": "フロントに聞く" },
+                        { "label": "B", "text": "部屋のカードに書いてある" },
+                        { "label": "C", "text": "テレビに表示される" },
+                        { "label": "D", "text": "ホームページに書いてある" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「パスワードはお部屋のカードに書いてあります」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "バスの案内",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "女：すみません、東京タワーへはどのバスに乗ればいいですか？\n男：3番のバスに乗ってください。\n女：何分くらいかかりますか？\n男：だいたい25分くらいです。\n女：バスは何分おきに来ますか？\n男：15分おきに来ます。次のバスは10分後です。\n女：ありがとうございます。"
+            },
+            "questions": [
+                {
+                    "questionText": "何番のバスに乗りますか？",
+                    "options": [
+                        { "label": "A", "text": "1番" },
+                        { "label": "B", "text": "2番" },
+                        { "label": "C", "text": "3番" },
+                        { "label": "D", "text": "4番" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「3番のバスに乗ってください」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "東京タワーまでどのくらいかかりますか？",
+                    "options": [
+                        { "label": "A", "text": "10分" },
+                        { "label": "B", "text": "15分" },
+                        { "label": "C", "text": "20分" },
+                        { "label": "D", "text": "25分" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "「だいたい25分くらいです」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「けっこう」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "とても良い、十分だ" },
+                        { "label": "B", "text": "悪い" },
+                        { "label": "C", "text": "少ない" },
+                        { "label": "D", "text": "遠い" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「けっこう（結構）」は「十分だ、かなり良い」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「ぜんぜん」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "たくさん" },
+                        { "label": "B", "text": "全く～ない" },
+                        { "label": "C", "text": "少し" },
+                        { "label": "D", "text": "時々" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「ぜんぜん（全然）」は否定形と一緒に使い「全く～ない」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「新聞」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "しんぶん" },
+                        { "label": "B", "text": "しんもん" },
+                        { "label": "C", "text": "あたらもん" },
+                        { "label": "D", "text": "にいぶん" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "新聞（しんぶん）はニュースが書いてある紙のことです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「時計」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "じけい" },
+                        { "label": "B", "text": "とけい" },
+                        { "label": "C", "text": "ときはかり" },
+                        { "label": "D", "text": "じはかり" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "時計（とけい）は時間を見る道具です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「勉強」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "べんきょう" },
+                        { "label": "B", "text": "べんきょ" },
+                        { "label": "C", "text": "つとめきょう" },
+                        { "label": "D", "text": "つよめ" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "勉強（べんきょう）は学ぶことです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「教室」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "きょうしつ" },
+                        { "label": "B", "text": "おしえしつ" },
+                        { "label": "C", "text": "きょうま" },
+                        { "label": "D", "text": "おしえま" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "教室（きょうしつ）は授業をする部屋です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "コーヒーと紅茶と、どちら（　　）好きですか？",
+                    "options": [
+                        { "label": "A", "text": "を" },
+                        { "label": "B", "text": "が" },
+                        { "label": "C", "text": "に" },
+                        { "label": "D", "text": "で" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「どちらが好きですか」は好みを聞く表現です。「が」を使います。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "彼は日本語（　　）英語（　　）話せます。",
+                    "options": [
+                        { "label": "A", "text": "と…と" },
+                        { "label": "B", "text": "も…も" },
+                        { "label": "C", "text": "が…が" },
+                        { "label": "D", "text": "や…や" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「も…も」は「両方」を表しす。「日本語も英語も話せる」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "窓を（　　）ください。寒いです。",
+                    "options": [
+                        { "label": "A", "text": "開けて" },
+                        { "label": "B", "text": "開けないで" },
+                        { "label": "C", "text": "閉めて" },
+                        { "label": "D", "text": "閉めないで" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「寒い」ので窓を「閉めてください」が正しいです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "昼ご飯はもう（　　）。",
+                    "options": [
+                        { "label": "A", "text": "食べます" },
+                        { "label": "B", "text": "食べました" },
+                        { "label": "C", "text": "食べません" },
+                        { "label": "D", "text": "食べています" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「もう」は完了を表す副詞なので、過去形「食べました」と使います。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "病院の掲示板",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "田中医院のお知らせです。\n\n診療時間：月曜日〜金曜日 午前9時〜12時、午後2時〜6時\n土曜日 午前9時〜12時のみ\n日曜日・祝日：休診\n\nインフルエンザの予防接種を始めました。大人は3500円、子ども（15歳以下）は2500円です。予約は受付まで。"
+            },
+            "questions": [
+                {
+                    "questionText": "土曜日の午後は診察できますか？",
+                    "options": [
+                        { "label": "A", "text": "できる" },
+                        { "label": "B", "text": "できない" },
+                        { "label": "C", "text": "予約だけ" },
+                        { "label": "D", "text": "書いていない" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "土曜日は「午前9時〜12時のみ」なので午後はありません。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "12歳の子どもの予防接種はいくらですか？",
+                    "options": [
+                        { "label": "A", "text": "2500円" },
+                        { "label": "B", "text": "3000円" },
+                        { "label": "C", "text": "3500円" },
+                        { "label": "D", "text": "無料" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "15歳以下の子どもは2500円です。12歳は15歳以下なので2500円です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "スーパーのチラシ",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "「スーパーさくら」今週の特売！\n\n・りんご 1個 98円 → 78円\n・牛乳 1本 198円 → 158円\n・卵 1パック 248円 → 198円\n・パン 1斤 168円\n\nセール期間：3月18日（月）〜3月24日（日）\n※パンはセール対象外です。\n毎週水曜日はポイント2倍デー！"
+            },
+            "questions": [
+                {
+                    "questionText": "りんごはセール中いくらですか？",
+                    "options": [
+                        { "label": "A", "text": "98円" },
+                        { "label": "B", "text": "78円" },
+                        { "label": "C", "text": "68円" },
+                        { "label": "D", "text": "88円" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "りんごは98円から78円に値下げされています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "パンはセールになりますか？",
+                    "options": [
+                        { "label": "A", "text": "はい、安くなる" },
+                        { "label": "B", "text": "いいえ、セール対象外" },
+                        { "label": "C", "text": "水曜日だけ安い" },
+                        { "label": "D", "text": "書いていない" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「パンはセール対象外です」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "ポイントが2倍になるのはいつですか？",
+                    "options": [
+                        { "label": "A", "text": "月曜日" },
+                        { "label": "B", "text": "火曜日" },
+                        { "label": "C", "text": "水曜日" },
+                        { "label": "D", "text": "日曜日" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「毎週水曜日はポイント2倍デー」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "medium_passages",
+            "title": "日本のお正月",
+            "difficulty": "medium",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "日本のお正月は1月1日から3日までです。多くの会社や学校は12月29日ごろから1月3日まで休みです。お正月には家族で集まって、おせち料理やお雑煮を食べます。おせち料理にはエビや黒豆、数の子など、それぞれ意味がある食べ物が入っています。子どもたちはお年玉をもらうのがとても楽しみです。1月1日には、多くの人が神社やお寺に初詣に行きます。"
+            },
+            "questions": [
+                {
+                    "questionText": "お正月はいつからいつまでですか？",
+                    "options": [
+                        { "label": "A", "text": "12月29日から1月3日" },
+                        { "label": "B", "text": "1月1日から1月3日" },
+                        { "label": "C", "text": "12月31日から1月1日" },
+                        { "label": "D", "text": "1月1日から1月7日" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「1月1日から3日まで」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "子どもたちが楽しみなことは何ですか？",
+                    "options": [
+                        { "label": "A", "text": "おせち料理を食べる" },
+                        { "label": "B", "text": "初詣に行く" },
+                        { "label": "C", "text": "お年玉をもらう" },
+                        { "label": "D", "text": "雪で遊ぶ" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「お年玉をもらうのがとても楽しみです」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "郵便局での会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "女：すみません、この荷物をアメリカに送りたいのですが。\n店員：はい、船便ですか？航空便ですか？\n女：どのくらい違いますか？\n店員：船便は2000円で2ヶ月かかります。航空便は4000円で1週間です。\n女：急いでいるので、航空便でお願いします。"
+            },
+            "questions": [
+                {
+                    "questionText": "女の人はどの方法で送りますか？",
+                    "options": [
+                        { "label": "A", "text": "船便" },
+                        { "label": "B", "text": "航空便" },
+                        { "label": "C", "text": "陸便" },
+                        { "label": "D", "text": "速達" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「航空便でお願いします」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "航空便はいくらですか？",
+                    "options": [
+                        { "label": "A", "text": "1000円" },
+                        { "label": "B", "text": "2000円" },
+                        { "label": "C", "text": "3000円" },
+                        { "label": "D", "text": "4000円" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "「航空便は4000円で1週間です」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "スポーツジムでの会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "男：このジムの会員になりたいのですが。\n店員：月会費は5000円です。プールも使えるプランは8000円です。\n男：プールは使いませんので、5000円のプランでお願いします。\n店員：営業時間は朝6時から夜10時までです。日曜日は8時から6時までです。"
+            },
+            "questions": [
+                {
+                    "questionText": "男の人はどのプランにしますか？",
+                    "options": [
+                        { "label": "A", "text": "3000円のプラン" },
+                        { "label": "B", "text": "5000円のプラン" },
+                        { "label": "C", "text": "8000円のプラン" },
+                        { "label": "D", "text": "10000円のプラン" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「5000円のプランでお願いします」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "夏休みに海（　　）泳ぎに行きます。",
+                    "options": [
+                        { "label": "A", "text": "に" },
+                        { "label": "B", "text": "で" },
+                        { "label": "C", "text": "を" },
+                        { "label": "D", "text": "へ" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "方向を表す「へ」を使います。「海へ泳ぎに行く」。「に」も可能ですが、「へ」は方向性を強調します。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "このケーキは姉（　　）作りました。",
+                    "options": [
+                        { "label": "A", "text": "を" },
+                        { "label": "B", "text": "が" },
+                        { "label": "C", "text": "の" },
+                        { "label": "D", "text": "に" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「姉が作りました」は姉を主語として動作主を表す「が」を使います。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「もったいない」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "無駄にするのが惜しい" },
+                        { "label": "B", "text": "とても嬉しい" },
+                        { "label": "C", "text": "恥ずかしい" },
+                        { "label": "D", "text": "おかしい" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「もったいない」は価値あるものを無駄にするのが惜しいという意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「なつかしい」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "悲しい気持ち" },
+                        { "label": "B", "text": "過去を思い出して温かい気持ち" },
+                        { "label": "C", "text": "怒っている気持ち" },
+                        { "label": "D", "text": "新しいものへの期待" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「なつかしい（懐かしい）」は昔のことを思い出して温かくなる感情です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「大学」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "たいがく" },
+                        { "label": "B", "text": "だいがく" },
+                        { "label": "C", "text": "おおがく" },
+                        { "label": "D", "text": "だいまなび" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "大学（だいがく）は高等教育の学校です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「交番」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "こうばん" },
+                        { "label": "B", "text": "まじばん" },
+                        { "label": "C", "text": "こうつう" },
+                        { "label": "D", "text": "こばん" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "交番（こうばん）は警察官がいる小さな建物です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「料理」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "りょうり" },
+                        { "label": "B", "text": "りょうじ" },
+                        { "label": "C", "text": "りょり" },
+                        { "label": "D", "text": "りょうぎ" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "料理（りょうり）は食べ物を作ることや作った食べ物のことです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「練習」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "れんしゅう" },
+                        { "label": "B", "text": "ねりしゅう" },
+                        { "label": "C", "text": "れんしゅ" },
+                        { "label": "D", "text": "ねりならい" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "練習（れんしゅう）は上手になるために繰り返すことです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「質問」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "しつもん" },
+                        { "label": "B", "text": "しちもん" },
+                        { "label": "C", "text": "しつとい" },
+                        { "label": "D", "text": "たちもん" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "質問（しつもん）はわからないことを聞くことです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「宿題」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "しゅくだい" },
+                        { "label": "B", "text": "やどだい" },
+                        { "label": "C", "text": "しゅくもん" },
+                        { "label": "D", "text": "やどもん" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "宿題（しゅくだい）は家でやる勉強のことです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「やっぱり」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "予想した通り" },
+                        { "label": "B", "text": "突然" },
+                        { "label": "C", "text": "ゆっくり" },
+                        { "label": "D", "text": "初めて" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「やっぱり（やはり）」は「思った通り」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「だんだん」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "急に" },
+                        { "label": "B", "text": "少しずつ" },
+                        { "label": "C", "text": "全部" },
+                        { "label": "D", "text": "反対に" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「だんだん」は「少しずつ変化していく」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「しっかり」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "弱くて不安定" },
+                        { "label": "B", "text": "強くて確実" },
+                        { "label": "C", "text": "速い" },
+                        { "label": "D", "text": "遅い" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「しっかり」は「確実に、きちんと」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「めずらしい」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "よくある" },
+                        { "label": "B", "text": "あまり見ない、珍しい" },
+                        { "label": "C", "text": "古い" },
+                        { "label": "D", "text": "危ない" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「めずらしい（珍しい）」は「あまり見ない、普通ではない」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「はずかしい」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "嬉しい気持ち" },
+                        { "label": "B", "text": "恥ずかしい気持ち" },
+                        { "label": "C", "text": "怖い気持ち" },
+                        { "label": "D", "text": "悲しい気持ち" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「はずかしい（恥ずかしい）」は他人の前で照れたり不安になる感情です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "妹は部屋で音楽（　　）聞いています。",
+                    "options": [
+                        { "label": "A", "text": "が" },
+                        { "label": "B", "text": "に" },
+                        { "label": "C", "text": "を" },
+                        { "label": "D", "text": "で" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「聞く」の対象は「を」で表します。「音楽を聞く」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "日本に（　　）ことがありますか？",
+                    "options": [
+                        { "label": "A", "text": "行く" },
+                        { "label": "B", "text": "行った" },
+                        { "label": "C", "text": "行って" },
+                        { "label": "D", "text": "行き" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「〜たことがある」は経験を表す表現です。「行ったことがある」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "この本は（　　）やすいです。",
+                    "options": [
+                        { "label": "A", "text": "読む" },
+                        { "label": "B", "text": "読み" },
+                        { "label": "C", "text": "読んで" },
+                        { "label": "D", "text": "読めて" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「〜やすい」は動詞のます形の語幹に接続します。「読みやすい」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "雨（　　）降りそうです。",
+                    "options": [
+                        { "label": "A", "text": "を" },
+                        { "label": "B", "text": "に" },
+                        { "label": "C", "text": "が" },
+                        { "label": "D", "text": "で" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "自然現象の主語は「が」で表します。「雨が降る」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "友達に英語（　　）教えてあげました。",
+                    "options": [
+                        { "label": "A", "text": "が" },
+                        { "label": "B", "text": "に" },
+                        { "label": "C", "text": "を" },
+                        { "label": "D", "text": "で" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「教える」の対象は「を」を使います。「英語を教える」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "父は毎日新聞を読む（　　）があります。",
+                    "options": [
+                        { "label": "A", "text": "こと" },
+                        { "label": "B", "text": "もの" },
+                        { "label": "C", "text": "習慣" },
+                        { "label": "D", "text": "趣味" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「習慣がある」は「いつもすること」を表します。「新聞を読む習慣がある」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "漢字を覚える（　　）毎日練習します。",
+                    "options": [
+                        { "label": "A", "text": "ために" },
+                        { "label": "B", "text": "ように" },
+                        { "label": "C", "text": "のに" },
+                        { "label": "D", "text": "からに" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「〜ために」は目的を表します。意志動詞の辞書形＋ために。「覚えるために」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "この花は春（　　）咲きます。",
+                    "options": [
+                        { "label": "A", "text": "で" },
+                        { "label": "B", "text": "が" },
+                        { "label": "C", "text": "を" },
+                        { "label": "D", "text": "に" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "時期を表すときは「に」を使います。「春に咲く」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿」に入る正しい文を選んでください。A「趣味は何ですか？」B「＿＿」",
+                    "options": [
+                        { "label": "A", "text": "サッカーをするのが好きです。" },
+                        { "label": "B", "text": "サッカーが上手です。" },
+                        { "label": "C", "text": "サッカーをしました。" },
+                        { "label": "D", "text": "サッカーの試合があります。" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "趣味を聞かれたので「〜するのが好きです」が適切です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿」に入る正しい文を選んでください。A「週末は何をしましたか？」B「＿＿」",
+                    "options": [
+                        { "label": "A", "text": "週末は友達と遊ぶつもりです。" },
+                        { "label": "B", "text": "友達と映画を見に行きました。" },
+                        { "label": "C", "text": "毎週末サッカーをします。" },
+                        { "label": "D", "text": "来週の週末は暇です。" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「何をしましたか？」は過去の質問なので、過去形の答えが適切です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿」に入る正しい文を選んでください。A「この荷物、重そうですね。」B「＿＿」",
+                    "options": [
+                        { "label": "A", "text": "はい、とても軽いです。" },
+                        { "label": "B", "text": "ありがとう、大丈夫です。" },
+                        { "label": "C", "text": "いいえ、持ちません。" },
+                        { "label": "D", "text": "すみません、知りません。" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "荷物が重そうだと心配されたので「大丈夫です」が自然です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿」に入る正しい文を選んでください。A「明日のパーティーに来られますか？」B「＿＿」",
+                    "options": [
+                        { "label": "A", "text": "はい、昨日行きました。" },
+                        { "label": "B", "text": "いいえ、パーティーが好きです。" },
+                        { "label": "C", "text": "すみません、用事があって行けません。" },
+                        { "label": "D", "text": "はい、パーティーは楽しかったです。" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「来られますか」に対して、行けない理由を述べる答えが自然です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "電車の案内",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "お客様にお知らせします。本日、台風の影響により、東京方面の電車は午後3時以降、運転を見合わせます。振替輸送はバスで行います。バスは駅前のバス停から出発します。詳しくは駅員にお尋ねください。ご迷惑をおかけして申し訳ございません。"
+            },
+            "questions": [
+                {
+                    "questionText": "東京方面の電車はいつから止まりますか？",
+                    "options": [
+                        { "label": "A", "text": "午前3時" },
+                        { "label": "B", "text": "午後1時" },
+                        { "label": "C", "text": "午後3時" },
+                        { "label": "D", "text": "午後5時" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「午後3時以降、運転を見合わせます」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "電車の代わりに何を使いますか？",
+                    "options": [
+                        { "label": "A", "text": "タクシー" },
+                        { "label": "B", "text": "バス" },
+                        { "label": "C", "text": "飛行機" },
+                        { "label": "D", "text": "新幹線" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「振替輸送はバスで行います」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "映画館の案内",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "シネマ東京では、毎月1日はサービスデーで映画が1000円で見られます。通常料金は大人1800円、学生1200円、子ども800円です。毎週水曜日はレディースデーで女性は1100円です。チケットはインターネットでも購入できます。"
+            },
+            "questions": [
+                {
+                    "questionText": "サービスデーはいつですか？",
+                    "options": [
+                        { "label": "A", "text": "毎月1日" },
+                        { "label": "B", "text": "毎月10日" },
+                        { "label": "C", "text": "毎週月曜日" },
+                        { "label": "D", "text": "毎週水曜日" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「毎月1日はサービスデー」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "学生の通常料金はいくらですか？",
+                    "options": [
+                        { "label": "A", "text": "800円" },
+                        { "label": "B", "text": "1000円" },
+                        { "label": "C", "text": "1200円" },
+                        { "label": "D", "text": "1800円" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「学生1200円」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "medium_passages",
+            "title": "東京の交通",
+            "difficulty": "medium",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "東京の交通はとても便利です。電車やバスが多く、朝早くから夜遅くまで走っています。特に地下鉄は路線が多くて、どこへでも行けます。IC カードを使えば切符を買わなくて済むので便利です。ただし、朝の通勤時間は電車がとても混雑します。ラッシュアワーは朝7時半から9時ごろまでです。できれば、この時間を避けたほうがいいでしょう。タクシーもありますが、料金が高いので長い距離には向いていません。"
+            },
+            "questions": [
+                {
+                    "questionText": "ICカードの便利な点は何ですか？",
+                    "options": [
+                        { "label": "A", "text": "料金が安くなる" },
+                        { "label": "B", "text": "切符を買わなくていい" },
+                        { "label": "C", "text": "特別な席に座れる" },
+                        { "label": "D", "text": "速い電車に乗れる" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「切符を買わなくて済むので便利です」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "ラッシュアワーはいつですか？",
+                    "options": [
+                        { "label": "A", "text": "朝6時から7時" },
+                        { "label": "B", "text": "朝7時半から9時" },
+                        { "label": "C", "text": "夕方5時から7時" },
+                        { "label": "D", "text": "夜8時から10時" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「朝7時半から9時ごろまで」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "タクシーについて正しいのはどれですか？",
+                    "options": [
+                        { "label": "A", "text": "安くて便利" },
+                        { "label": "B", "text": "料金が高くて長距離に向かない" },
+                        { "label": "C", "text": "夜は走っていない" },
+                        { "label": "D", "text": "予約が必要" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「料金が高いので長い距離には向いていません」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "medium_passages",
+            "title": "日本の四季",
+            "difficulty": "medium",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "日本には春、夏、秋、冬の四つの季節があります。春は3月から5月で、桜が有名です。多くの人が花見を楽しみます。夏は6月から8月で、とても暑いです。花火大会やお盆があります。秋は9月から11月で、紅葉がきれいです。食べ物もおいしい季節です。冬は12月から2月で、寒いですが、北の地方では雪が降って、スキーが楽しめます。日本人は季節の変化をとても大切にしています。"
+            },
+            "questions": [
+                {
+                    "questionText": "花見はいつしますか？",
+                    "options": [
+                        { "label": "A", "text": "春" },
+                        { "label": "B", "text": "夏" },
+                        { "label": "C", "text": "秋" },
+                        { "label": "D", "text": "冬" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「春は…桜が有名です。多くの人が花見を楽しみます」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "秋について正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "花火大会がある" },
+                        { "label": "B", "text": "スキーができる" },
+                        { "label": "C", "text": "紅葉がきれい" },
+                        { "label": "D", "text": "桜が咲く" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「秋は…紅葉がきれいです」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "冬にできることは？",
+                    "options": [
+                        { "label": "A", "text": "花見" },
+                        { "label": "B", "text": "花火大会" },
+                        { "label": "C", "text": "紅葉見物" },
+                        { "label": "D", "text": "スキー" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "「冬は…スキーが楽しめます」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "コンビニでの会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "店員：いらっしゃいませ。\n男：おにぎりとお茶をください。\n店員：温めますか？\n男：おにぎりだけお願いします。\n店員：お箸は何膳いりますか？\n男：一膳でいいです。全部で500円です。"
+            },
+            "questions": [
+                {
+                    "questionText": "男の人は何を温めてもらいますか？",
+                    "options": [
+                        { "label": "A", "text": "お茶" },
+                        { "label": "B", "text": "おにぎり" },
+                        { "label": "C", "text": "両方" },
+                        { "label": "D", "text": "何も温めない" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「おにぎりだけお願いします」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "美容院の予約",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "店員：はい、ヘアサロン花です。\n女：予約をしたいのですが、今週の土曜日は空いていますか？\n店員：午前中は満席ですが、午後2時からなら空いています。\n女：じゃ、2時でお願いします。カットとカラーをお願いしたいです。\n店員：かしこまりました。お名前をお願いします。\n女：山田花子です。"
+            },
+            "questions": [
+                {
+                    "questionText": "予約は何時ですか？",
+                    "options": [
+                        { "label": "A", "text": "午前10時" },
+                        { "label": "B", "text": "午前12時" },
+                        { "label": "C", "text": "午後1時" },
+                        { "label": "D", "text": "午後2時" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "「2時でお願いします」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "女の人は何をしてもらいますか？",
+                    "options": [
+                        { "label": "A", "text": "カットだけ" },
+                        { "label": "B", "text": "カラーだけ" },
+                        { "label": "C", "text": "カットとカラー" },
+                        { "label": "D", "text": "カットとパーマ" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「カットとカラーをお願いしたいです」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "薬局での会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "客：すみません、頭が痛いのですが。\n薬剤師：いつからですか？\n客：今朝からです。\n薬剤師：熱はありますか？\n客：少しあります。37度5分です。\n薬剤師：では、この薬がいいでしょう。食後に1錠ずつ飲んでください。"
+            },
+            "questions": [
+                {
+                    "questionText": "客の症状は何ですか？",
+                    "options": [
+                        { "label": "A", "text": "お腹が痛い" },
+                        { "label": "B", "text": "頭が痛い" },
+                        { "label": "C", "text": "歯が痛い" },
+                        { "label": "D", "text": "足が痛い" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「頭が痛いのですが」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "薬はいつ飲みますか？",
+                    "options": [
+                        { "label": "A", "text": "食前" },
+                        { "label": "B", "text": "食後" },
+                        { "label": "C", "text": "寝る前" },
+                        { "label": "D", "text": "朝だけ" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「食後に1錠ずつ飲んでください」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "学校の先生との会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "先生：来週の月曜日にテストがあります。範囲は第5課から第8課までです。\n学生：先生、教科書だけ勉強すればいいですか？\n先生：教科書とプリントの両方から出します。特に文法の部分をよく復習してください。\n学生：テストは何分ですか？\n先生：50分です。辞書は使えません。"
+            },
+            "questions": [
+                {
+                    "questionText": "テストの範囲はどこですか？",
+                    "options": [
+                        { "label": "A", "text": "第1課から第4課" },
+                        { "label": "B", "text": "第5課から第8課" },
+                        { "label": "C", "text": "第5課から第10課" },
+                        { "label": "D", "text": "全部" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「第5課から第8課まで」と先生が言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "テストで辞書を使えますか？",
+                    "options": [
+                        { "label": "A", "text": "はい、使える" },
+                        { "label": "B", "text": "いいえ、使えない" },
+                        { "label": "C", "text": "電子辞書だけ使える" },
+                        { "label": "D", "text": "先生に聞けば使える" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「辞書は使えません」と先生が言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "特に何を復習するべきですか？",
+                    "options": [
+                        { "label": "A", "text": "漢字" },
+                        { "label": "B", "text": "読解" },
+                        { "label": "C", "text": "文法" },
+                        { "label": "D", "text": "聴解" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「特に文法の部分をよく復習してください」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "友達との週末計画",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "男：今度の日曜日、何する？\n女：買い物に行かない？新宿に新しいショッピングモールができたんだ。\n男：いいね。何時に会う？\n女：11時に新宿駅の南口でどう？\n男：OK。お昼はそこで食べよう。\n女：うん、フードコートが大きいらしいよ。映画も見られるみたい。\n男：じゃ、買い物の後に映画を見ようか。"
+            },
+            "questions": [
+                {
+                    "questionText": "二人はどこで会いますか？",
+                    "options": [
+                        { "label": "A", "text": "渋谷駅" },
+                        { "label": "B", "text": "新宿駅の北口" },
+                        { "label": "C", "text": "新宿駅の南口" },
+                        { "label": "D", "text": "東京駅" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「新宿駅の南口で」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "買い物の後、何をしますか？",
+                    "options": [
+                        { "label": "A", "text": "カラオケ" },
+                        { "label": "B", "text": "映画" },
+                        { "label": "C", "text": "ゲーム" },
+                        { "label": "D", "text": "食事" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「買い物の後に映画を見ようか」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "不動産屋での会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "店員：どんなお部屋をお探しですか？\n男：駅から近くて、家賃が6万円以下の1Kがいいです。\n店員：こちらの物件はいかがですか？駅から歩いて5分で、家賃は5万8千円です。\n男：ペットは飼えますか？\n店員：残念ですが、ペット不可です。\n男：そうですか。猫を飼っているので、ペット可の物件はありますか？\n店員：こちらは駅から10分ですが、ペット可で6万円です。"
+            },
+            "questions": [
+                {
+                    "questionText": "男の人の予算はいくらですか？",
+                    "options": [
+                        { "label": "A", "text": "5万円以下" },
+                        { "label": "B", "text": "6万円以下" },
+                        { "label": "C", "text": "7万円以下" },
+                        { "label": "D", "text": "8万円以下" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「家賃が6万円以下」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "男の人はどんなペットを飼っていますか？",
+                    "options": [
+                        { "label": "A", "text": "犬" },
+                        { "label": "B", "text": "猫" },
+                        { "label": "C", "text": "うさぎ" },
+                        { "label": "D", "text": "鳥" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「猫を飼っているので」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "ペット可の物件は駅から何分ですか？",
+                    "options": [
+                        { "label": "A", "text": "5分" },
+                        { "label": "B", "text": "8分" },
+                        { "label": "C", "text": "10分" },
+                        { "label": "D", "text": "15分" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「駅から10分ですが、ペット可で」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「すばらしい」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "とても良い、感動する" },
+                        { "label": "B", "text": "普通のこと" },
+                        { "label": "C", "text": "つまらない" },
+                        { "label": "D", "text": "不思議な" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「すばらしい（素晴らしい）」は「非常に優れている、感動するほど良い」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「さびしい」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "楽しい気持ち" },
+                        { "label": "B", "text": "一人で心細い気持ち" },
+                        { "label": "C", "text": "忙しい状態" },
+                        { "label": "D", "text": "嬉しい気持ち" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「さびしい（寂しい）」は「一人で心細い、孤独を感じる」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「洗濯」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "せんたく" },
+                        { "label": "B", "text": "あらいたく" },
+                        { "label": "C", "text": "せんだく" },
+                        { "label": "D", "text": "あらだく" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "洗濯（せんたく）は衣服を洗うことです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「掃除」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "そうじ" },
+                        { "label": "B", "text": "はくじょ" },
+                        { "label": "C", "text": "そうじょ" },
+                        { "label": "D", "text": "はきのぞき" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "掃除（そうじ）は部屋をきれいにすることです。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「冷蔵庫」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "れいぞうこ" },
+                        { "label": "B", "text": "ひやぞうこ" },
+                        { "label": "C", "text": "れいぞうく" },
+                        { "label": "D", "text": "つめぞうこ" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "冷蔵庫（れいぞうこ）は食べ物を冷やして保存する機械です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "週末は家で本を読んだ（　　）映画を見た（　　）します。",
+                    "options": [
+                        { "label": "A", "text": "と…と" },
+                        { "label": "B", "text": "り…り" },
+                        { "label": "C", "text": "し…し" },
+                        { "label": "D", "text": "て…て" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「〜たり〜たりする」は複数の動作を列挙する表現です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "あの店のラーメンは（　　）おいしいですよ。",
+                    "options": [
+                        { "label": "A", "text": "とても" },
+                        { "label": "B", "text": "あまり" },
+                        { "label": "C", "text": "ぜんぜん" },
+                        { "label": "D", "text": "ほとんど" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「とても」は肯定文で程度が高いことを表します。「とてもおいしい」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "テストがあるから、今日は早く（　　）。",
+                    "options": [
+                        { "label": "A", "text": "寝たい" },
+                        { "label": "B", "text": "寝ない" },
+                        { "label": "C", "text": "寝なかった" },
+                        { "label": "D", "text": "寝よう" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "「〜よう」は意志を表します。「早く寝よう」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "母に手紙を（　　）もらいました。",
+                    "options": [
+                        { "label": "A", "text": "書く" },
+                        { "label": "B", "text": "書いて" },
+                        { "label": "C", "text": "書き" },
+                        { "label": "D", "text": "書いた" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「〜てもらう」の形で、動詞のて形を使います。「書いてもらう」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "マンションの規則",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "マンションの住民の皆様へ\n\n1. ゴミは決められた日に出してください。\n　・燃えるゴミ：月曜日と木曜日\n　・燃えないゴミ：水曜日\n　・ビン・カン：金曜日\n2. 夜10時以降は大きな音を出さないでください。\n3. ペットは禁止です。\n4. 駐輪場は一世帯2台までです。"
+            },
+            "questions": [
+                {
+                    "questionText": "燃えるゴミは何曜日に出しますか？",
+                    "options": [
+                        { "label": "A", "text": "月曜日と水曜日" },
+                        { "label": "B", "text": "月曜日と木曜日" },
+                        { "label": "C", "text": "火曜日と金曜日" },
+                        { "label": "D", "text": "水曜日と金曜日" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「燃えるゴミ：月曜日と木曜日」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "自転車は何台まで置けますか？",
+                    "options": [
+                        { "label": "A", "text": "1台" },
+                        { "label": "B", "text": "2台" },
+                        { "label": "C", "text": "3台" },
+                        { "label": "D", "text": "制限なし" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「駐輪場は一世帯2台まで」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "図書館の利用案内",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "中央図書館からのお知らせ\n・開館時間：午前9時〜午後8時（土日は午後6時まで）\n・休館日：毎週月曜日と祝日の翌日\n・本は一人10冊まで、2週間借りられます。\n・DVDは一人3枚まで、1週間借りられます。\n・延長は一回だけできます。電話でもインターネットでも延長できます。"
+            },
+            "questions": [
+                {
+                    "questionText": "土日の閉館時間は何時ですか？",
+                    "options": [
+                        { "label": "A", "text": "午後5時" },
+                        { "label": "B", "text": "午後6時" },
+                        { "label": "C", "text": "午後7時" },
+                        { "label": "D", "text": "午後8時" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「土日は午後6時まで」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "本は何冊まで借りられますか？",
+                    "options": [
+                        { "label": "A", "text": "3冊" },
+                        { "label": "B", "text": "5冊" },
+                        { "label": "C", "text": "10冊" },
+                        { "label": "D", "text": "15冊" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「本は一人10冊まで」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "図書館での会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "女：すみません、この本を返したいのですが。\n図書館員：はい。あ、こちらの本は3日遅れですね。\n女：すみません、忙しくて忘れてしまいました。\n図書館員：今回は大丈夫ですが、次回からは気をつけてくださいね。\n女：はい、すみません。新しい本を借りたいのですが。\n図書館員：どうぞ、カードを見せてください。"
+            },
+            "questions": [
+                {
+                    "questionText": "本はどのくらい遅れましたか？",
+                    "options": [
+                        { "label": "A", "text": "1日" },
+                        { "label": "B", "text": "2日" },
+                        { "label": "C", "text": "3日" },
+                        { "label": "D", "text": "1週間" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「3日遅れですね」と図書館員が言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "short_dialogue",
+            "title": "郵便局での会話",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "男：すみません、この荷物をアメリカに送りたいのですが。\n郵便局員：航空便ですか、船便ですか？\n男：どのくらい違いますか？\n郵便局員：航空便は1週間くらいで届きますが、2500円です。船便は2ヶ月かかりますが、800円です。\n男：急いでいるので、航空便でお願いします。"
+            },
+            "questions": [
+                {
+                    "questionText": "男の人はどちらを選びましたか？",
+                    "options": [
+                        { "label": "A", "text": "船便" },
+                        { "label": "B", "text": "航空便" },
+                        { "label": "C", "text": "速達" },
+                        { "label": "D", "text": "まだ決めていない" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「急いでいるので、航空便でお願いします」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "航空便の料金はいくらですか？",
+                    "options": [
+                        { "label": "A", "text": "800円" },
+                        { "label": "B", "text": "1500円" },
+                        { "label": "C", "text": "2000円" },
+                        { "label": "D", "text": "2500円" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "「航空便は…2500円です」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "料理教室の案内",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "男：料理教室に申し込みたいのですが。\n女：はい、初級クラスと中級クラスがあります。初級は毎週土曜日の午前10時から12時で、月謝は8000円です。\n男：料理はほとんどしたことがないのですが。\n女：では初級クラスがおすすめです。基本的な和食から始めます。\n男：材料は持って行きますか？\n女：いいえ、材料はこちらで用意します。エプロンだけ持ってきてください。"
+            },
+            "questions": [
+                {
+                    "questionText": "初級クラスはいつですか？",
+                    "options": [
+                        { "label": "A", "text": "毎週金曜日の午後" },
+                        { "label": "B", "text": "毎週土曜日の午前" },
+                        { "label": "C", "text": "毎週日曜日の午前" },
+                        { "label": "D", "text": "毎週土曜日の午後" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「毎週土曜日の午前10時から12時」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "何を持って行きますか？",
+                    "options": [
+                        { "label": "A", "text": "材料" },
+                        { "label": "B", "text": "お弁当" },
+                        { "label": "C", "text": "エプロン" },
+                        { "label": "D", "text": "教科書" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「エプロンだけ持ってきてください」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "月謝はいくらですか？",
+                    "options": [
+                        { "label": "A", "text": "5000円" },
+                        { "label": "B", "text": "6000円" },
+                        { "label": "C", "text": "8000円" },
+                        { "label": "D", "text": "10000円" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「月謝は8000円です」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "引っ越しの相談",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "女：来月引っ越しをするんだけど、手伝ってくれない？\n男：いいよ。いつ？\n女：3月15日の土曜日。朝9時から始めたいんだけど。\n男：OK。トラックは借りるの？\n女：うん、レンタルのトラックを予約したよ。荷物はそんなに多くないから、午前中に終わると思う。\n男：わかった。終わったらお昼ご飯、おごるよ。\n女：ありがとう！助かるわ。"
+            },
+            "questions": [
+                {
+                    "questionText": "引っ越しはいつですか？",
+                    "options": [
+                        { "label": "A", "text": "3月5日" },
+                        { "label": "B", "text": "3月15日" },
+                        { "label": "C", "text": "3月25日" },
+                        { "label": "D", "text": "4月15日" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「3月15日の土曜日」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "引っ越しはどのくらいかかりますか？",
+                    "options": [
+                        { "label": "A", "text": "午前中に終わる" },
+                        { "label": "B", "text": "一日中かかる" },
+                        { "label": "C", "text": "二日かかる" },
+                        { "label": "D", "text": "午後まで" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「午前中に終わると思う」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿」に入る正しい文を選んでください。A「すみません、ここに座ってもいいですか？」B「＿＿」",
+                    "options": [
+                        { "label": "A", "text": "はい、座ります。" },
+                        { "label": "B", "text": "いいえ、座りません。" },
+                        { "label": "C", "text": "ええ、どうぞ。" },
+                        { "label": "D", "text": "はい、座りました。" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "許可を求められたので「どうぞ」で許可を与えます。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿」に入る正しい文を選んでください。A「この漢字の読み方を教えてください。」B「＿＿」",
+                    "options": [
+                        { "label": "A", "text": "すみません、私もわかりません。" },
+                        { "label": "B", "text": "はい、教科書を持っています。" },
+                        { "label": "C", "text": "いいえ、漢字は難しいです。" },
+                        { "label": "D", "text": "すみません、読み方は好きです。" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "読み方を聞かれて答えられない場合、「私もわかりません」が自然です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "sentence_completion",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「＿＿」に入る正しい文を選んでください。A「日本語はどのくらい勉強していますか？」B「＿＿」",
+                    "options": [
+                        { "label": "A", "text": "日本語が好きです。" },
+                        { "label": "B", "text": "3年ぐらい勉強しています。" },
+                        { "label": "C", "text": "毎日学校で勉強します。" },
+                        { "label": "D", "text": "日本語の先生は親切です。" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「どのくらい」は期間を聞いているので、期間を答えます。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "medium_passages",
+            "title": "メールの文章",
+            "difficulty": "medium",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "田中先生\n\nお元気ですか。先月日本語能力試験N5を受けました。結果はまだ来ていませんが、文法と読解は自信があります。聴解は少し難しかったです。\n\n来月から日本語学校の中級クラスに入ることにしました。毎週火曜日と木曜日の夜7時から9時までです。漢字をもっと勉強したいと思っています。\n\n先生にまた教えていただきたいのですが、中級クラスも先生が担当されますか？\n\nよろしくお願いします。\nリン"
+            },
+            "questions": [
+                {
+                    "questionText": "リンさんはどの試験を受けましたか？",
+                    "options": [
+                        { "label": "A", "text": "N1" },
+                        { "label": "B", "text": "N3" },
+                        { "label": "C", "text": "N4" },
+                        { "label": "D", "text": "N5" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "「日本語能力試験N5を受けました」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "リンさんが難しかったのはどの部分ですか？",
+                    "options": [
+                        { "label": "A", "text": "文法" },
+                        { "label": "B", "text": "読解" },
+                        { "label": "C", "text": "聴解" },
+                        { "label": "D", "text": "漢字" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「聴解は少し難しかったです」と書いてあります。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "中級クラスはいつですか？",
+                    "options": [
+                        { "label": "A", "text": "月曜と水曜" },
+                        { "label": "B", "text": "火曜と木曜" },
+                        { "label": "C", "text": "水曜と金曜" },
+                        { "label": "D", "text": "土曜と日曜" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「毎週火曜日と木曜日」と書いてあります。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「なつかしい」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "暑い季節を思い出す" },
+                        { "label": "B", "text": "過去のことを思い出して懐かしく感じる" },
+                        { "label": "C", "text": "悲しい気持ちになる" },
+                        { "label": "D", "text": "夏が好きな" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「なつかしい（懐かしい）」は「過去のことを思い出して、温かい気持ちになる」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「郵便局」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "ゆうびんきょく" },
+                        { "label": "B", "text": "うびんきょく" },
+                        { "label": "C", "text": "ゆうべんきょく" },
+                        { "label": "D", "text": "ゆうびんぎょく" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "郵便局（ゆうびんきょく）は手紙や荷物を送る場所です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「美術館」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "びじゅつかん" },
+                        { "label": "B", "text": "みじゅつかん" },
+                        { "label": "C", "text": "びじゅっかん" },
+                        { "label": "D", "text": "みじゅっかん" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "美術館（びじゅつかん）は絵や彫刻を見る場所です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "窓を（　　）ください。寒いですから。",
+                    "options": [
+                        { "label": "A", "text": "閉めて" },
+                        { "label": "B", "text": "閉めた" },
+                        { "label": "C", "text": "閉める" },
+                        { "label": "D", "text": "閉めます" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「〜てください」の形で依頼を表します。「閉めてください」。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "questionType": "grammar_form",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["grammar", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "彼女は歌が上手（　　）踊りも上手です。",
+                    "options": [
+                        { "label": "A", "text": "で" },
+                        { "label": "B", "text": "に" },
+                        { "label": "C", "text": "と" },
+                        { "label": "D", "text": "が" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "な形容詞のて形は「〜で」です。「上手で」は「上手だ」の接続形です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "questionType": "short_passages",
+            "title": "レストランのメニュー",
+            "difficulty": "easy",
+            "tags": ["reading", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "ランチメニュー（11:00〜14:00）\nA. カレーライスセット（サラダ・飲み物つき）780円\nB. ラーメンセット（餃子・飲み物つき）850円\nC. 焼き魚定食（ご飯・味噌汁・漬物つき）900円\n※ドリンクのみ注文の場合は300円\n※セットの飲み物はコーヒー・紅茶・オレンジジュースから選べます。"
+            },
+            "questions": [
+                {
+                    "questionText": "一番安いセットはどれですか？",
+                    "options": [
+                        { "label": "A", "text": "カレーライスセット" },
+                        { "label": "B", "text": "ラーメンセット" },
+                        { "label": "C", "text": "焼き魚定食" },
+                        { "label": "D", "text": "ドリンクのみ" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "カレーライスセットが780円で一番安いです。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "セットの飲み物で選べないものは？",
+                    "options": [
+                        { "label": "A", "text": "コーヒー" },
+                        { "label": "B", "text": "紅茶" },
+                        { "label": "C", "text": "牛乳" },
+                        { "label": "D", "text": "オレンジジュース" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "選べるのは「コーヒー・紅茶・オレンジジュース」で、牛乳はありません。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "listening",
+            "level": "N5",
+            "questionType": "conversation",
+            "title": "旅行の計画",
+            "difficulty": "easy",
+            "tags": ["listening", "N5"],
+            "instructions": "",
+            "context": {
+                "text": "女：夏休みに京都に行かない？\n男：いいね！何日間？\n女：2泊3日はどう？金曜日に出発して日曜日に帰る。\n男：新幹線で行く？\n女：うん、新幹線が速くて楽だと思う。2時間くらいで着くよ。\n男：ホテルはどうする？\n女：駅の近くに安いビジネスホテルがあるよ。一泊5000円くらい。"
+            },
+            "questions": [
+                {
+                    "questionText": "何日間の旅行ですか？",
+                    "options": [
+                        { "label": "A", "text": "1泊2日" },
+                        { "label": "B", "text": "2泊3日" },
+                        { "label": "C", "text": "3泊4日" },
+                        { "label": "D", "text": "日帰り" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「2泊3日はどう？」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "京都までどのくらいかかりますか？",
+                    "options": [
+                        { "label": "A", "text": "1時間" },
+                        { "label": "B", "text": "2時間" },
+                        { "label": "C", "text": "3時間" },
+                        { "label": "D", "text": "4時間" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「2時間くらいで着くよ」と言っています。",
+                    "translationVi": ""
+                },
+                {
+                    "questionText": "ホテルは一泊いくらですか？",
+                    "options": [
+                        { "label": "A", "text": "3000円" },
+                        { "label": "B", "text": "5000円" },
+                        { "label": "C", "text": "8000円" },
+                        { "label": "D", "text": "10000円" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「一泊5000円くらい」と言っています。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "word_meaning",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["vocabulary", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「うっかり」の意味として正しいものは？",
+                    "options": [
+                        { "label": "A", "text": "注意しないで間違える" },
+                        { "label": "B", "text": "ゆっくり動く" },
+                        { "label": "C", "text": "喜ぶ" },
+                        { "label": "D", "text": "静かにする" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "「うっかり」は「不注意で、ぼんやりして」という意味です。",
+                    "translationVi": ""
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "questionType": "kanji_reading",
+            "title": "",
+            "difficulty": "easy",
+            "tags": ["kanji", "N5"],
+            "instructions": "",
+            "questions": [
+                {
+                    "questionText": "「約束」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "やくそく" },
+                        { "label": "B", "text": "やくぞく" },
+                        { "label": "C", "text": "やくたば" },
+                        { "label": "D", "text": "やくつか" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "約束（やくそく）は二人以上の人が決めたことです。",
+                    "translationVi": ""
+                }
+            ]
+        }
+    ]
+}
