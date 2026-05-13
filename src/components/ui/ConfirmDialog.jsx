@@ -16,3 +16,33 @@ import { createPortal } from 'react-dom'
  *     variant="danger"   // "danger" | "warning" | "info"
  *   />
  */
+export default function ConfirmDialog({
+    isOpen,
+    onClose,
+    onConfirm,
+    title = 'Xác nhận',
+    message = 'Bạn có chắc chắn muốn thực hiện hành động này?',
+    confirmText = 'Xác nhận',
+    cancelText = 'Hủy',
+    variant = 'danger',
+    loading = false,
+}) {
+    const overlayRef = useRef(null)
+    const [busy, setBusy] = useState(false)
+
+    useEffect(() => {
+        if (!isOpen) return
+        const handler = e => e.key === 'Escape' && !busy && onClose?.()
+        document.addEventListener('keydown', handler)
+        return () => document.removeEventListener('keydown', handler)
+    }, [isOpen, onClose, busy])
+
+    useEffect(() => {
+        if (!isOpen) return
+        const prev = document.body.style.overflow
+        document.body.style.overflow = 'hidden'
+        return () => {
+            document.body.style.overflow = prev
+        }
+    }, [isOpen])
+}
