@@ -24,6 +24,23 @@ function CardHeader({ className, children, ...props }) {
     )
 }
 
+function CardTitle({ className, as: Tag = 'h3', children, ...props }) {
+    const Component = /** @type {any} */ (Tag)
+    return (
+        <Component className={cn('text-lg font-bold text-text', className)} {...props}>
+            {children}
+        </Component>
+    )
+}
+
+function CardDescription({ className, children, ...props }) {
+    return (
+        <p className={cn('text-sm text-text-light mt-1', className)} {...props}>
+            {children}
+        </p>
+    )
+}
+
 function CardBody({ className, children, ...props }) {
     return (
         <div className={cn(className)} {...props}>
@@ -39,3 +56,9 @@ function CardFooter({ className, children, ...props }) {
         </div>
     )
 }
+
+Card.Header = CardHeader
+Card.Title = CardTitle
+Card.Description = CardDescription
+Card.Body = CardBody
+Card.Footer = CardFooter
