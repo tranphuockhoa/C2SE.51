@@ -12,4 +12,9 @@ const Input = forwardRef(function Input(/** @type {any} */ _props, ref) {
                     {label}
                 </label>
             )}
-            
+         </div>
+    )
+})            
+
+Input.displayName = 'Input'
+export default Input
