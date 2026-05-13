@@ -89,5 +89,52 @@ export default function ConfirmDialog({
             aria-modal="true"
             aria-labelledby="confirm-dialog-title"
             aria-describedby="confirm-dialog-desc"
-        ></div>
-}
+        >
+            <div className="relative w-full max-w-md rounded-2xl bg-white shadow-xl">
+                <div className="p-6">
+                    <div className="flex items-start gap-4">
+                        <div
+                            className={`shrink-0 flex items-center justify-center size-10 rounded-full ${styles.icon}`}
+                        >
+                            <AlertTriangle className="size-5" />
+                        </div>
+                        <div className="flex-1 min-w-0">
+                            <h3
+                                id="confirm-dialog-title"
+                                className="text-base font-bold text-gray-900"
+                            >
+                                {title}
+                            </h3>
+                            <p
+                                id="confirm-dialog-desc"
+                                className="mt-1.5 text-sm text-gray-600 leading-relaxed"
+                            >
+                                {message}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="flex items-center justify-end gap-3 border-t border-gray-100 px-6 py-4">
+                    <button
+                        type="button"
+                        onClick={onClose}
+                        disabled={isLoading}
+                        className="px-4 py-2 rounded-xl text-sm font-semibold text-gray-700 bg-gray-100 hover:bg-gray-200 transition-colors cursor-pointer disabled:opacity-50"
+                    >
+                        {cancelText}
+                    </button>
+                    <button
+                        type="button"
+                        onClick={handleConfirm}
+                        disabled={isLoading}
+                        className={`px-4 py-2 rounded-xl text-sm font-semibold transition-colors cursor-pointer disabled:opacity-50 ${styles.button}`}
+                    >
+                        {isLoading ? 'Đang xử lý...' : confirmText}
+                    </button>
+                </div>
+            </div>
+        </div>,
+        document.body
+    )
+}   
