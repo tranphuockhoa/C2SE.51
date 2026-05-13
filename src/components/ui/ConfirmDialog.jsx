@@ -45,4 +45,10 @@ export default function ConfirmDialog({
             document.body.style.overflow = prev
         }
     }, [isOpen])
+
+    if (!isOpen) return null
+
+    const handleOverlayClick = e => {
+        if (e.target === overlayRef.current && !busy) onClose?.()
+    }
 }
