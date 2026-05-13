@@ -16,6 +16,14 @@ export default function Card({ className, hover = false, children, ...props }) {
     )
 }
 
+function CardHeader({ className, children, ...props }) {
+    return (
+        <div className={cn('mb-4', className)} {...props}>
+            {children}
+        </div>
+    )
+}
+
 function CardBody({ className, children, ...props }) {
     return (
         <div className={cn(className)} {...props}>
