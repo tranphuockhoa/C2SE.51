@@ -79,4 +79,15 @@ export default function ConfirmDialog({
     }
 
     const styles = variantStyles[variant] || variantStyles.danger
+
+    return createPortal(
+        <div
+            ref={overlayRef}
+            onClick={handleOverlayClick}
+            className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-sm p-4"
+            role="alertdialog"
+            aria-modal="true"
+            aria-labelledby="confirm-dialog-title"
+            aria-describedby="confirm-dialog-desc"
+        ></div>
 }
