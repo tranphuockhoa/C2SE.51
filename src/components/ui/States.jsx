@@ -46,3 +46,27 @@ export function EmptyState({
         </div>
     )
 }
+
+export function NotFoundState({
+    title = 'Không tìm thấy kết quả',
+    message = 'Thử thay đổi từ khóa tìm kiếm hoặc bộ lọc.',
+    actionLabel = '',
+    onAction = null,
+}) {
+    return (
+        <div className="flex flex-col items-center justify-center py-16 gap-4 text-center">
+            <div className="size-14 rounded-full bg-warning-light flex items-center justify-center">
+                <SearchX className="size-7 text-warning" />
+            </div>
+            <div>
+                <h3 className="text-lg font-bold text-text">{title}</h3>
+                <p className="text-sm text-text-light mt-1 max-w-sm">{message}</p>
+            </div>
+            {actionLabel && onAction && (
+                <Button variant="secondary" size="sm" onClick={onAction}>
+                    {actionLabel}
+                </Button>
+            )}
+        </div>
+    )
+}
