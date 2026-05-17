@@ -26,3 +26,23 @@ export function ErrorState({
         </div>
     )
 }
+
+export function EmptyState({
+    icon: Icon = Inbox,
+    title = 'Không có dữ liệu',
+    message = '',
+    action = null,
+}) {
+    return (
+        <div className="flex flex-col items-center justify-center py-16 gap-4 text-center">
+            <div className="size-14 rounded-full bg-background flex items-center justify-center">
+                <Icon className="size-7 text-text-muted" />
+            </div>
+            <div>
+                <h3 className="text-lg font-bold text-text">{title}</h3>
+                {message && <p className="text-sm text-text-light mt-1 max-w-sm">{message}</p>}
+            </div>
+            {action}
+        </div>
+    )
+}
