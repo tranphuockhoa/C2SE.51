@@ -27,3 +27,27 @@ function TabsList({ className = '', children, ...props }) {
         </div>
     )
 }
+
+function TabsTrigger({ value, className = '', children, ...props }) {
+    const ctx = useContext(TabsContext)
+    const isActive = ctx.value === value
+    return (
+        <button
+            type="button"
+            role="tab"
+            aria-selected={isActive}
+            onClick={() => ctx.onValueChange?.(value)}
+            className={cn(
+                'inline-flex items-center justify-center px-3 py-1.5 rounded-md text-sm font-medium transition-all duration-200 cursor-pointer whitespace-nowrap',
+                isActive
+                    ? 'bg-white text-primary shadow-sm'
+                    : 'text-text-light hover:text-text hover:bg-white/60',
+                className
+            )}
+            data-state={isActive ? 'active' : 'inactive'}
+            {...props}
+        >
+            {children}
+        </button>
+    )
+}
