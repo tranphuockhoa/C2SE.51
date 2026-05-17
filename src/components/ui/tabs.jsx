@@ -15,3 +15,15 @@ function Tabs({ value, onValueChange, className = '', children, ...props }) {
         </TabsContext.Provider>
     )
 }
+
+function TabsList({ className = '', children, ...props }) {
+    return (
+        <div
+            role="tablist"
+            className={cn('inline-flex items-center gap-1 rounded-lg bg-background p-1', className)}
+            {...props}
+        >
+            {children}
+        </div>
+    )
+}
