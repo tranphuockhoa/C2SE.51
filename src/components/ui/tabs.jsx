@@ -51,3 +51,15 @@ function TabsTrigger({ value, className = '', children, ...props }) {
         </button>
     )
 }
+
+function TabsContent({ value, className, children, ...props }) {
+    const ctx = useContext(TabsContext)
+    if (ctx.value !== value) return null
+    return (
+        <div role="tabpanel" className={cn('mt-3', className)} {...props}>
+            {children}
+        </div>
+    )
+}
+
+export { Tabs, TabsContent, TabsList, TabsTrigger }
