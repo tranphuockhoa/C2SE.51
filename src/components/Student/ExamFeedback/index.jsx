@@ -606,7 +606,6 @@ function FeedbackSection({ examId }) {
                         className="w-full h-9 px-3 text-sm rounded-lg border border-border bg-background outline-none focus:border-primary transition-colors"
                     />
                 )}
-
                 <textarea
                     value={content}
                     onChange={e => setContent(e.target.value)}
