@@ -1,0 +1,171 @@
+{
+    "items": [
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "difficulty": "easy",
+            "questionType": "kanji_reading",
+            "title": "Đọc Kanji cơ bản N5",
+            "tags": ["kanji", "N5", "vocabulary"],
+            "instructions": "Chọn cách đọc đúng của từ trong ngoặc.",
+            "questions": [
+                {
+                    "questionText": "「先週」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "せんしゅう" },
+                        { "label": "B", "text": "せんしゅ" },
+                        { "label": "C", "text": "ぜんしゅう" },
+                        { "label": "D", "text": "ぜんしゅ" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "先 = せん、週 = しゅう → 先週 = せんしゅう (tuần trước)",
+                    "translationVi": "Cách đọc của「先週」là gì?"
+                },
+                {
+                    "questionText": "「食べる」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "のべる" },
+                        { "label": "B", "text": "たべる" },
+                        { "label": "C", "text": "あべる" },
+                        { "label": "D", "text": "くべる" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "食べる = たべる (ăn)",
+                    "translationVi": "Cách đọc của「食べる」là gì?"
+                },
+                {
+                    "questionText": "「毎日」の読み方は？",
+                    "options": [
+                        { "label": "A", "text": "まいにち" },
+                        { "label": "B", "text": "まいび" },
+                        { "label": "C", "text": "もうにち" },
+                        { "label": "D", "text": "めいにち" }
+                    ],
+                    "correctAnswer": "A",
+                    "explanation": "毎 = まい、日 = にち → 毎日 = まいにち (mỗi ngày)",
+                    "translationVi": "Cách đọc của「毎日」là gì?"
+                }
+            ]
+        },
+        {
+            "section": "grammar",
+            "level": "N5",
+            "difficulty": "easy",
+            "questionType": "grammar_form",
+            "title": "Trợ từ và mẫu câu N5",
+            "tags": ["grammar", "N5", "particles"],
+            "instructions": "Chọn đáp án đúng để hoàn thành câu.",
+            "questions": [
+                {
+                    "questionText": "わたし＿学生です。",
+                    "options": [
+                        { "label": "A", "text": "を" },
+                        { "label": "B", "text": "は" },
+                        { "label": "C", "text": "に" },
+                        { "label": "D", "text": "で" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「は」は主題を示す助詞です。わたしは学生です = Tôi là sinh viên.",
+                    "translationVi": "Tôi ___ là sinh viên."
+                },
+                {
+                    "questionText": "きのう図書館＿勉強しました。",
+                    "options": [
+                        { "label": "A", "text": "を" },
+                        { "label": "B", "text": "は" },
+                        { "label": "C", "text": "で" },
+                        { "label": "D", "text": "が" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「で」は動作の場所を示します。図書館で勉強しました = Đã học ở thư viện.",
+                    "translationVi": "Hôm qua đã học ___ thư viện."
+                },
+                {
+                    "questionText": "りんご＿三つ買いました。",
+                    "options": [
+                        { "label": "A", "text": "は" },
+                        { "label": "B", "text": "に" },
+                        { "label": "C", "text": "で" },
+                        { "label": "D", "text": "を" }
+                    ],
+                    "correctAnswer": "D",
+                    "explanation": "「を」は他動詞の目的語を示す助詞です。りんごを買う = Mua táo.",
+                    "translationVi": "Đã mua ba ___ táo."
+                }
+            ]
+        },
+        {
+            "section": "reading",
+            "level": "N5",
+            "difficulty": "medium",
+            "questionType": "short_passages",
+            "title": "Đọc hiểu đoạn văn ngắn",
+            "tags": ["reading", "N5"],
+            "instructions": "Đọc đoạn văn sau và trả lời câu hỏi.",
+            "context": {
+                "text": "わたしは田中です。毎朝7時に起きます。朝ごはんを食べてから、8時に学校へ行きます。学校で日本語を勉強します。12時に友だちとお昼ごはんを食べます。3時に学校が終わります。うちに帰ってから、テレビを見ます。11時に寝ます。"
+            },
+            "questions": [
+                {
+                    "questionText": "田中さんは毎朝何時に起きますか？",
+                    "options": [
+                        { "label": "A", "text": "6時" },
+                        { "label": "B", "text": "7時" },
+                        { "label": "C", "text": "8時" },
+                        { "label": "D", "text": "9時" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「毎朝7時に起きます」とあります。",
+                    "translationVi": "Anh Tanaka mỗi sáng dậy lúc mấy giờ?"
+                },
+                {
+                    "questionText": "田中さんは学校で何を勉強しますか？",
+                    "options": [
+                        { "label": "A", "text": "英語" },
+                        { "label": "B", "text": "数学" },
+                        { "label": "C", "text": "日本語" },
+                        { "label": "D", "text": "科学" }
+                    ],
+                    "correctAnswer": "C",
+                    "explanation": "「学校で日本語を勉強します」とあります。",
+                    "translationVi": "Anh Tanaka học gì ở trường?"
+                },
+                {
+                    "questionText": "田中さんは何時に寝ますか？",
+                    "options": [
+                        { "label": "A", "text": "10時" },
+                        { "label": "B", "text": "11時" },
+                        { "label": "C", "text": "12時" },
+                        { "label": "D", "text": "9時" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "「11時に寝ます」とあります。",
+                    "translationVi": "Anh Tanaka đi ngủ lúc mấy giờ?"
+                }
+            ]
+        },
+        {
+            "section": "vocabulary",
+            "level": "N5",
+            "difficulty": "easy",
+            "questionType": "word_meaning",
+            "title": "Nghĩa từ vựng N5",
+            "tags": ["vocabulary", "N5", "meaning"],
+            "instructions": "Chọn nghĩa đúng của từ được gạch chân.",
+            "questions": [
+                {
+                    "questionText": "この本はとても「おもしろい」です。",
+                    "options": [
+                        { "label": "A", "text": "khó" },
+                        { "label": "B", "text": "thú vị" },
+                        { "label": "C", "text": "đắt" },
+                        { "label": "D", "text": "dài" }
+                    ],
+                    "correctAnswer": "B",
+                    "explanation": "おもしろい = thú vị, hay",
+                    "translationVi": "Cuốn sách này rất 「thú vị」."
+                }
+            ]
+        }
+    ]
+}
